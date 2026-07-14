@@ -1,4 +1,4 @@
 module "ec2" {
-  source = "../services"
+  source = "../module"
 }
 
